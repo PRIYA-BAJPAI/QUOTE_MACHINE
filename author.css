@@ -1,0 +1,13 @@
+.author{
+    font-size: 3rem;
+    margin: 20px 0;
+    color: aliceblue;
+    text-align: center;
+    text-decoration: underline;
+}
+.list{
+    font-size: 2rem;
+    text-align: center;
+    margin: 2px 0;
+    color: aliceblue;
+}

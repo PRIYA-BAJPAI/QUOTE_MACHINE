@@ -1,0 +1,29 @@
+.container{
+    color: white;
+    justify-content: center;
+    /* display: flex; */
+    /* flex-direction: column; */
+    align-items: center;
+    text-align: center;
+
+}
+.day{
+    font-size: 3rem;
+}
+.quote{
+    font-size: 2rem;
+    text-align: center;
+    margin: 2px 0;
+}
+
+.button{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.quote{
+    height:10vh;
+    padding-top: 20vh;
+}

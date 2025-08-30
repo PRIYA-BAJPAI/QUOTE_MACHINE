@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+.container{
+    color: white;
+    justify-content: center;
+    /* display: flex; */
+    /* flex-direction: column; */
+    align-items: center;
+    text-align: center;
+    
+}
+.quote{
+    font-size: 2rem;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.button{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 15vh 0;
+    
+   
+}
+
+.quote{
+    height:10vh;
+    padding-top: 20vh;
+}
+.button button:hover{
+    background-color: rgb(150, 75, 75);
+    color: white;
+    cursor: pointer;
+
+}
